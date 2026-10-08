@@ -1,0 +1,6 @@
+{
+  "name": "Nombor Arab Ceria",
+  "description": "Aplikasi permainan pembelajaran nombor 1 hingga 10 bahasa Arab interaktif untuk prasekolah dengan audio, scoreboard, bintang ganjaran, dan penyelarasan rekod guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
